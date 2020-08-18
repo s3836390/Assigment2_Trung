@@ -1,0 +1,43 @@
+Cloud, services, server
+What does it do?
+Normally, when people talk about cloud, services and server, they are talking about cloud computing services in general. Servers are pieces of computer hardware or software that provides functionality for other programs. With the appearance of cloud servers, we can categorize servers into 2 types: local and cloud-based [1].
+
+Cloud computing and related services are essentially the package of computing services
+- including servers, storage, databases, networking, software, analytics and data interpretation-
+being provided over the internet (the cloud). [2]
+
+Nowadays, cloud computing can bring to the business these advantages: [2]
+Cost: Cloud computing eliminates the cost of buying hardware and software needed for database management.
+Speed: Vast amounts of computing resources can be provided by the supplier with just a few mouse clicks (operations). This give businesses burst computing capability (high computing power at a certain periods of peak demand) [3]
+Global scale: computing resources can be delivered from the right geographic location (data being near the place of usage)
+Productivity: IT teams are relieved of the tedious data-management tasks and can spend time on achieving more important business goals
+Performance: The biggest cloud computing services run on a worldwide network of secure datacenters, which are regularly upgraded to the latest version of fast and efficient computing hardware. 
+Reliability: Cloud services makes data backup, disaster recovery and business continuity easier and less expensive as data is mirrored at multiple redundant sites on the cloud network.
+Security: Cloud services also provide advance security technologies that are usually neglected during initial stages of business.
+
+Main types of Cloud services: [ 3]
+Infrastructure as a Service (IaaS): refers to online services that provide high-level APIs used to abstract various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup, etc. 
+Platform as a service (Paas): Similar to IaaS but with a higher degree of automation with the ability to deploy products onto the cloud without the need of controlling the underlying cloud infrastructure including network, servers, operating systems, or storage. 
+Software as a service (Saas): The consumer is now capable of using the provider’s applications running on a cloud infrastructure.
+Serverless computing: A cloud computing code execution model in which the cloud provider fully manages starting and stopping virtual machines as necessary.
+
+Cloud computing applications are numerous and ubiquitous. If you use an online service to send emails, edit documents (google docs), watch movies (Netflix) or TV, listen to music, play games, store pictures, it is likely that you are experiencing the applications of cloud computing. Customers of cloud services now can create cloud-native applications, test and build applications  with flexibility, store, backup and recover, analyze data, use embed intelligence (machine learning models which are resource-hungry). 
+
+The future goal of cloud computing mainly is to increase the reliability and reduce cost. Some rising trends can be seen in the next few years such as hybrid cloud which improves cost efficiency, scalability, agility and security. Edge computing (distributed computing paradigm that brings computation and data storage closer to the needed location ) and hyper-scale data centers  also increasing in popularity. We can also see that Disaster-recovery-as-a service will peak in the following years as cost of data breach can be devastating to big businesses. The use of AI in data center to save functioning energy and detect patterns in hardware failures will also increase significantly. [4]
+
+2. What is the likely impact? 
+The impact of cloud computing will be different on various individuals. 
+We can see that businesses are the ones affected the most by the development of cloud computing, cloud services have been the optimal solution for early development as for its affordable cost, flexibility in scale and increase in productivity of developers. Thus businesses are required to implement their systems on the cloud if they want to compete with the competitors. Cloud-based systems will give the potential business the tools to create a more robust solution to new and existing problems.
+As for developers, the skills to understand and use cloud services effectively have been critical to their skillsets. Knowledge about cloud services and servers has never been so valuable. This also means that developers are now compulsory to hone the skills necessary about cloud-related technologies if they want to increase the chances of landing a job. New positions related to cloud technology will appear and replace some of the old positions such as the server managers, security specialists, etc which were required when local servers were prevalent. Most businesses then will only need a small team of developers that understand cloud services to run properly.
+As for the common internet users, they can expect to see more and more businesses and services that use cloud-based technologies. Although the consumers are usually unaware of the implementation of cloud services, they will undoubtedly be benefitted as common services such as music listening and video streaming will become more approachable, faster and cheaper as the underline functioning cost is being continuously reduced. New services will also appear as people start to realize the potential of cloud computing.
+On the other hand, technologies about creating and maintaining a local server will not be made redundant as the data centers 
+
+3. How will this affect you?
+My daily life as a normal user will be the same with the addition of new services. I will have access to a much more diverse category of suppliers when I need to finish a task. Services such as music streaming, video streaming, social media, comic reading sites, messaging, etc from all around the world will have the ability to reach audiences from all around the world, thus creating a larger market and increase competition, which is beneficial for both the customers and the economy as a whole. As an example, services such as Youtube, Google, Facebook and Spotify, all of which are a part of my daily life, are blazingly fast in Vietnam despite having no physical servers placed here. In addition, I can also get access to new services such as Qobus (music streaming and purchasing), this is impossible in the past due to the slow internet connection. 
+As a potential developer, I now must devote time and effort to study and achieve adequate skills about cloud computing and how to masterfully manipulate the functions provided by cloud services if I do not want to be outdated about the technology world or left behind in the competitive job market. Cloud-based technologies are also a tool for me to create my solutions and actively join the business world when I wish.
+My friends and family will also be introduced to more and more services which eventually will open to them more options when choosing which service to use. My friends, some of which are having the intention of creating startups, will be greatly benefitted by the development of cloud computing as the initial cost of bring the startup to life is significantly reduced. In summary, both the businesses and the customers will be profited by the cloud services trend.
+Bibliography
+[1]	wikipedia.org, Server (Computing), on: August 18th. [Online]. Available: https://en.wikipedia.org/wiki/Server_(computing)
+[2]	azure.microsoft, What is cloud computing?, on: August 17th. [Online]. Available: https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
+[3]	wikipedia.org, Cloud computing, on: March 17th. [Online]. Available: https://en.wikipedia.org/wiki/Cloud_computing
+[4]	N. Mishra, 7 Key Cloud Computing Trends That Will Shape Enterprise Computing In 2020, on: August 18th. [Online]. Available: https://www.entrepreneur.com/article/345826
